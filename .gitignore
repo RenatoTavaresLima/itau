@@ -75,3 +75,4 @@ PublishScripts/
 *.nuget.props
 *.nuget.targets
 
+.vscode
