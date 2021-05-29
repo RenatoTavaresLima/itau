@@ -2,7 +2,7 @@
 
 ## Algumas informações
 * A API foi desenvolvida em .Net 5
-* A arquitetura utilizada foi o MVC
+* A arquitetura utilizada foi a MVC
 * Os testes foram escritos utilizando o xUnit
 * O editor de código utilizado foi o Visual Studio Code
 
@@ -16,7 +16,7 @@ Baseado nos requisitos do projeto, identifiquei que o problema proposto poderia 
 * Clone o repositório
   
 # Rodando os testes
-* Abre um terminal de comando e navegue até a pasta root do projeto
+* Abra um terminal de comando e navegue até a pasta root do projeto
 * Execute os comandos abaixo:
 ```
 cd integrationTests
